@@ -4,8 +4,8 @@
 
 A portfolio project that collects, stores, analyzes, and visualizes Universal Orlando wait time data. The project demonstrates Python skills, data engineering fundamentals, and analytical thinking.
 
-**Live Dashboard:** (Coming soon - will be hosted on Streamlit Cloud)
-**Portfolio:** austinrose.io
+**Live Dashboard:** https://austin-rose-wait-time-project.streamlit.app/
+**Portfolio:** https://austinrose.io
 
 ---
 
@@ -90,7 +90,7 @@ project-wait-time-tracker/
 ### Phase 4: Dashboard Development
 - [x] Build Streamlit app
 - [x] Add interactive filters
-- [ ] Deploy to Streamlit Cloud
+- [x] Deploy to Streamlit Cloud
 - [ ] Link from austinrose.io
 
 ### Phase 5: Documentation & Case Study

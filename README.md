@@ -2,6 +2,8 @@
 
 A data engineering portfolio project that collects, analyzes, and visualizes wait time data from Universal Orlando theme parks.
 
+**🚀 [Live Dashboard](https://austin-rose-wait-time-project.streamlit.app/)** | **🌐 [Portfolio](https://austinrose.io)**
+
 ## Overview
 
 This project automatically collects wait time data from three Universal Orlando parks every 30 minutes using the [Queue-Times API](https://queue-times.com). The data is stored in a SQLite database and presented through an interactive Streamlit dashboard.
