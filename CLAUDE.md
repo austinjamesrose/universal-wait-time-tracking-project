@@ -88,8 +88,8 @@ project-wait-time-tracker/
 - [ ] Document 3+ insights (need more data)
 
 ### Phase 4: Dashboard Development
-- [ ] Build Streamlit app
-- [ ] Add interactive filters
+- [x] Build Streamlit app
+- [x] Add interactive filters
 - [ ] Deploy to Streamlit Cloud
 - [ ] Link from austinrose.io
 
