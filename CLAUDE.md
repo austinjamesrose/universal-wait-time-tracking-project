@@ -91,7 +91,7 @@ project-wait-time-tracker/
 - [x] Build Streamlit app
 - [x] Add interactive filters
 - [x] Deploy to Streamlit Cloud
-- [ ] Link from austinrose.io
+- [x] Link from austinrose.io
 
 ### Phase 5: Documentation & Case Study
 - [ ] Polish README.md
