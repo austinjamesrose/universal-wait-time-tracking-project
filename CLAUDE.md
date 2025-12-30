@@ -83,9 +83,9 @@ project-wait-time-tracker/
 - [ ] Add logging and monitoring
 
 ### Phase 3: Analysis & Insights
-- [ ] Create exploration notebook
-- [ ] Perform EDA
-- [ ] Document 3+ insights
+- [x] Create exploration notebook
+- [ ] Perform EDA (need more data)
+- [ ] Document 3+ insights (need more data)
 
 ### Phase 4: Dashboard Development
 - [ ] Build Streamlit app
@@ -120,3 +120,8 @@ project-wait-time-tracker/
 - SQLite database committed to repo for persistence
 - Dashboard shows historical analysis only (no live API calls)
 - Target: 30+ days of data before deep analysis
+
+## Git Commit Guidelines
+
+- Do NOT include "Generated with Claude Code" or Co-Authored-By lines in commit messages
+- Keep commit messages concise and descriptive
