@@ -281,8 +281,8 @@ def main() -> None:
     else:
         results = collect_all_parks()
 
-        # Exit with error code if any park failed
-        if any(r < 0 for r in results.values()):
+        # Exit with error code only if ALL parks failed
+        if all(r < 0 for r in results.values()):
             sys.exit(1)
 
 

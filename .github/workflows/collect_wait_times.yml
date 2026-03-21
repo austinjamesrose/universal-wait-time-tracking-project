@@ -44,6 +44,7 @@ jobs:
       # Run the data collector
       - name: Collect wait time data
         run: python -m src.collector
+        continue-on-error: true
 
       # Check if there are changes to commit
       - name: Check for changes
