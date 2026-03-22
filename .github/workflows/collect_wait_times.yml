@@ -60,4 +60,5 @@ jobs:
           git config --local user.email "actions@github.com"
           git add data/wait_times.db
           git commit -m "Update wait times data - $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          git pull --rebase origin HEAD
+          git push origin HEAD
